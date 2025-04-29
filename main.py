@@ -9,7 +9,7 @@ from aiogram.utils.callback_data import CallbackData
 
 import keyboards as kb
 
-TOKEN = "TOKEN-HERE"
+TOKEN = "7745940346:AAE4pP2nkvJ0SVsdv-kaTOb14beJAN3GgQo"
 
 logging.basicConfig(level=logging.INFO)
 
